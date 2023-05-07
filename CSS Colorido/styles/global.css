@@ -1,0 +1,28 @@
+.sidebar {
+height: 500px;
+width: 10%;
+background-color: rgb(173, 117, 14);
+padding-top: 100px;
+float: left;
+text-align: center;  
+font-family:'Courier New', Courier, monospace;
+}
+
+.header {
+height: 100px;
+width: 100%;
+background-color:rgb(58, 23, 174);  
+text-align: center;  
+font-family:'Courier New', Courier, monospace;
+}
+
+.content {
+height: 500px;
+width: 90%;
+background-color: rgb(69, 103, 69);
+padding-top: 100px;
+float: right;
+text-align: center;
+font-family:'Courier New', Courier, monospace;
+}    
+
